@@ -1,0 +1,10 @@
+/target
+**/*.rs.bk
+**/target
+**/**/*.lock
+**/logs
+**/.vscode
+**/data_db/**
+**/data
+**/tmp
+Cargo.lock
